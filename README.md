@@ -5,6 +5,7 @@ JavaScript30 courses repo
 
 | Courses                                                    |    Finished |
 |:-----------------------------------------------------------|------------:|
+| 08 - Fun with HTML5 Canvas                                 |  17.06.2018 |
 | 07 - Array Cardio Day 2                                    |  16.06.2018 |
 | 06 - Ajax Type Ahead                                       |  16.06.2018 |  
 | 05 - Flex Panels Image Gallery                             |  15.06.2018 |
