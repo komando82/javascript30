@@ -5,6 +5,7 @@ JavaScript30 courses repo
 
 | Courses                                                    |   Finished |
 |:-----------------------------------------------------------|-----------:|
+| 16 - CSS Text Shadow Mouse Move Effect                     | 20.06.2018 |
 | 15 - LocalStorage and Event Delegation                     | 19.06.2018 |
 | 14 - Object and Arrays - Reference VS Copy                 | 19.06.2018 |
 | 13 - Slide In on Scroll                                    | 19.06.2018 |
