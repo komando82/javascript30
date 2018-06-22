@@ -7,7 +7,7 @@ JavaScript30 courses repo
 |:-----------------------------------------------------------|-----------:|
 | 19 - Unreal Webcam Fun                                     | 21.06.2018 |
 | 18 - Tally String Times with Reduce                        | 21.06.2018 |
-
+| 17 - Sorting Band Names without articles                   | 20.06.2018 |
 | 16 - CSS Text Shadow Mouse Move Effect                     | 20.06.2018 |
 | 15 - LocalStorage and Event Delegation                     | 19.06.2018 |
 | 14 - Object and Arrays - Reference VS Copy                 | 19.06.2018 |
