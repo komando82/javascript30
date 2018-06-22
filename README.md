@@ -5,6 +5,7 @@ JavaScript30 courses repo
 
 | Courses                                                    |   Finished |
 |:-----------------------------------------------------------|-----------:|
+| 20 - Native Speech Recognition                             | 22.06.2018 |
 | 19 - Unreal Webcam Fun                                     | 21.06.2018 |
 | 18 - Tally String Times with Reduce                        | 21.06.2018 |
 | 17 - Sorting Band Names without articles                   | 20.06.2018 |
