@@ -5,6 +5,7 @@ JavaScript30 courses repo
 
 | Courses                                                    |   Finished |
 |:-----------------------------------------------------------|-----------:|
+| 21 - Geolocation based Speedometer and Compass             | 23.06.2018 |
 | 20 - Native Speech Recognition                             | 22.06.2018 |
 | 19 - Unreal Webcam Fun                                     | 21.06.2018 |
 | 18 - Tally String Times with Reduce                        | 21.06.2018 |
