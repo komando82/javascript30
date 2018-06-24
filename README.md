@@ -5,6 +5,7 @@ JavaScript30 courses repo
 
 | Courses                                                    |   Finished |
 |:-----------------------------------------------------------|-----------:|
+| 23 - Speech Synthesis                                      | 24.06.2018 |
 | 22 - Follow Along Links                                    | 23.06.2018 |
 | 21 - Geolocation based Speedometer and Compass             | 23.06.2018 |
 | 20 - Native Speech Recognition                             | 22.06.2018 |
