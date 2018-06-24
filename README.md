@@ -5,6 +5,8 @@ JavaScript30 courses repo
 
 | Courses                                                    |   Finished |
 |:-----------------------------------------------------------|-----------:|
+| 25 - Event Capture, Propagination, Bubbling and Once       | 24.06.2018 |
+| 24 - Sticky Nav                                            | 24.06.2018 |
 | 23 - Speech Synthesis                                      | 24.06.2018 |
 | 22 - Follow Along Links                                    | 23.06.2018 |
 | 21 - Geolocation based Speedometer and Compass             | 23.06.2018 |
