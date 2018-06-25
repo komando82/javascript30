@@ -5,7 +5,8 @@ JavaScript30 courses repo
 
 | Courses                                                    |   Finished |
 |:-----------------------------------------------------------|-----------:|
-| 28 - Video Speed Controller UI                             | 25.26.2018 |
+| 29 - Countdown Clock                                       | 25.06.2018 |
+| 28 - Video Speed Controller UI                             | 25.06.2018 |
 | 27 - Click and Drag to Scroll                              | 25.06.2018 |
 | 26 - Stripe Follow Along Dropdown                          | 25.06.2018 |
 | 25 - Event Capture, Propagination, Bubbling and Once       | 24.06.2018 |
