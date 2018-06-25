@@ -5,6 +5,7 @@ JavaScript30 courses repo
 
 | Courses                                                    |   Finished |
 |:-----------------------------------------------------------|-----------:|
+| 26 - Stripe Follow Along Dropdown                          | 25.06.2018 |
 | 25 - Event Capture, Propagination, Bubbling and Once       | 24.06.2018 |
 | 24 - Sticky Nav                                            | 24.06.2018 |
 | 23 - Speech Synthesis                                      | 24.06.2018 |
