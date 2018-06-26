@@ -5,6 +5,7 @@ JavaScript30 courses repo
 
 | Courses                                                    |   Finished |
 |:-----------------------------------------------------------|-----------:|
+| 30 - Whack A Mola Game                                     | 26.06.2018 |
 | 29 - Countdown Clock                                       | 25.06.2018 |
 | 28 - Video Speed Controller UI                             | 25.06.2018 |
 | 27 - Click and Drag to Scroll                              | 25.06.2018 |
